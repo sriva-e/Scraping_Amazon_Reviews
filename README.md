@@ -38,5 +38,6 @@ url = 'https://www.amazon.com/s?k=camera&ref=nb_sb_noss'
 1. amazon_review_scraper.py: Python script for scraping Amazon product reviews.
 2. amazon_asin_scraper.py: Python script for scraping Amazon product ASINs from search results.
 3. requirements.txt: A list of required Python libraries and their versions.
+4. amazon_reviews_w_profile_data(100$-150$).xlsx: An example excel file which contains reviews of Cameras ranging from 100$ to 150$
 ## Contributing
 If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request. Your contributions are welcome.
